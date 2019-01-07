@@ -1,21 +1,5 @@
 # Planning and design of Airport Terminal Building(Kabul Airport)
 
-[](4242-1.jpg)
-
-[](4242-2.jpg)
-
-[](4242-3.jpg)
-
-[](4242-4.jpg)
-
-[](4242-5.jpg)
-
-[](4242-6.jpg)
-
-[](4242-7.jpg)
-
-[](4242-8.jpg)
-
 Airports play a vital role in economic development, and the most important cargo they move is people.
 The central core of this movement is terminal building; where people are moved from landside to airside and so on.
 HKIA (Hamid Karzai International Airport) terminal building which is located in Kabul city has been surveyed, and this project has been designed with consideration of the problems we had in HKIA.
@@ -36,3 +20,20 @@ Furthermore, Standards and terminal facilities are withdrew as recommended by FA
 Overall terminal space has been calculated based on the book (Ashford and wright, airport engineering page 430), as it recommends that; 10,000 m^2 of floor space per 1mppa.
 To sum it up, in this project (Kabul International Airport) maximum facilities and minimum waiting time has been considered for the passengers.
  
+
+
+![](../images/P19-3098_2141_blowup.jpg)
+
+![](../images/P19-3098_7626_blowup.jpg)
+
+![](../images/P19-3098_7624_blowup.jpg)
+
+![](../images/P19-3098_7620_blowup.jpg)
+
+![](../images/P19-3098_1324_blowup.jpg)
+
+![](../images/P19-3098_9366_blowup.jpg)
+
+![](../images/P19-3098_7627_blowup.jpg)
+
+![](../images/P19-3098_1325_blowup.jpg)

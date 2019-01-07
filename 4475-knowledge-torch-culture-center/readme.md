@@ -1,1 +1,0 @@
-# Knowledge Torch Culture Center
