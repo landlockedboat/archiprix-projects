@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Archiprix projects
+# Archiprix projects
 
 {% for post in site.posts %}
 * [{{ post.title }}]({{ post.url }})
