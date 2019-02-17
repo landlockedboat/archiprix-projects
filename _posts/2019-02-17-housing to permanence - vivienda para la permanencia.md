@@ -1,5 +1,8 @@
-# HOUSING TO PERMANENCE / VIVIENDA PARA LA PERMANENCIA
-
+---
+layout: post
+title: "HOUSING TO PERMANENCE / VIVIENDA PARA LA PERMANENCIA"
+---
+# [HOUSING TO PERMANENCE / VIVIENDA PARA LA PERMANENCIA](http://www.archiprix.org/2019/?project=4247)
 //
 The thesis focused on the global study of the situation of refugees in today's world, emphasizing the
 
@@ -24,18 +27,19 @@ Fue planificada en su funcionamiento interno, para luego desarrollar vínculos c
 La vivienda está representada por el apilamiento de funciones. El plano alto contiende la cubierta sombreada y las instalaciones técnicas. El plano medio es el protagonista habitable y está compuesto por dos áreas que puede albergar múltiples actividades. El plano inferior es el que contiene oculto, un área de descanso.
 Volumétricamente está compuesta por tres módulos: dos cuerpos de 3m x 5m x 2.5 vinculados por un núcleo de 1m x 3m x 2.5 m. Los tres forman una unidad de 7m x 5m x 2.5m 
 
-![](../images/P19-1851_7188_blowup.jpg)
 
-![](../images/P19-1851_7323_blowup.jpg)
+![]({{site.url}}/images/P19-1851_7188_blowup.jpg)
 
-![](../images/P19-1851_7254_blowup.jpg)
+![]({{site.url}}/images/P19-1851_7254_blowup.jpg)
 
-![](../images/P19-1851_7196_blowup.jpg)
+![]({{site.url}}/images/P19-1851_7198_blowup.jpg)
 
-![](../images/P19-1851_7198_blowup.jpg)
+![]({{site.url}}/images/P19-1851_7323_blowup.jpg)
 
-![](../images/P19-1851_7313_blowup.jpg)
+![]({{site.url}}/images/P19-1851_7313_blowup.jpg)
 
-![](../images/P19-1851_7325_blowup.jpg)
+![]({{site.url}}/images/P19-1851_7196_blowup.jpg)
 
-![](../images/P19-1851_7321_blowup.jpg)
+![]({{site.url}}/images/P19-1851_7325_blowup.jpg)
+
+![]({{site.url}}/images/P19-1851_7321_blowup.jpg)

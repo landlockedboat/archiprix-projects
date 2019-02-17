@@ -1,3 +1,6 @@
+# Custom
+*.sh
+
 # Jekyll
 _site/
 .jekyll-cache

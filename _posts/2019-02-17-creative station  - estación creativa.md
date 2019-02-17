@@ -1,5 +1,8 @@
-# Creative Station  / Estación creativa
-
+---
+layout: post
+title: "Creative Station  / Estación creativa"
+---
+# [Creative Station  / Estación creativa](http://www.archiprix.org/2019/?project=4231)
 The synergy of shared workspaces
 
 Nowadays, the rise of land and leasing prices are making the individual workspace an unachievable goal. However, sharing a workspace and its infrastructure does not only bring economical benefits but also performance improvements. These days, more people are likely to work within communities of like-minded individuals, who tend to be potential partners and/or clients.
@@ -26,18 +29,19 @@ El proyecto
 Se trata de un edificio en donde la línea entre trabajar, aprender y socializar se desdibuja a favor de nuevas posibilidades. Esto es posible mediante la flexibilidad espacial/organizacional que permiten los paneles móviles y los elevadores. Mientras que en la cota -6,2m se encuentra la mayor parte del programa (espacios de trabajo, auditorios, exposición y gastronomía), en la cota +-0,0m se encuentra la plaza de las cajas. Dichas cajas son manifestaciones terrestres del proyecto subterráneo, que permiten ver que sucede por debajo y a su vez, mediante los elevadores, movilizar tanto objetos de vastas dimensiones como grandes masas de personas rápidamente. 
 
 
-![](../images/P19-1853_5884_blowup.jpg)
 
-![](../images/P19-1853_5890_blowup.jpg)
+![]({{site.url}}/images/P19-1853_5884_blowup.jpg)
 
-![](../images/P19-1853_5880_blowup.jpg)
+![]({{site.url}}/images/P19-1853_5890_blowup.jpg)
 
-![](../images/P19-1853_5892_blowup.jpg)
+![]({{site.url}}/images/P19-1853_5892_blowup.jpg)
 
-![](../images/P19-1853_5886_blowup.jpg)
+![]({{site.url}}/images/P19-1853_5880_blowup.jpg)
 
-![](../images/P19-1853_5888_blowup.jpg)
+![]({{site.url}}/images/P19-1853_5886_blowup.jpg)
 
-![](../images/P19-1853_5894_blowup.jpg)
+![]({{site.url}}/images/P19-1853_5894_blowup.jpg)
 
-![](../images/P19-1853_5878_blowup.jpg)
+![]({{site.url}}/images/P19-1853_5888_blowup.jpg)
+
+![]({{site.url}}/images/P19-1853_5878_blowup.jpg)

@@ -1,5 +1,8 @@
-# Knowledge Torch Culture Center
-
+---
+layout: post
+title: "Knowledge Torch Culture Center"
+---
+# [Knowledge Torch Culture Center](http://www.archiprix.org/2019/?project=4475)
 Design and getting benefit of a culture center is an essential way and issue to promote culture and knowledge for accomplishing social activities among people.
 Culture center acting as a social active center for recognizing-presenting cultural/ artistic activities and creating scientific backgrounds toward a developed society. When developing a culture center concept idea, the most important social activity must have selected as origin of idea and others as complement. Among both we must discover things that is common between people’s customs, habits and ideas.
 Knowledge is the foundation of everything in universe, so if we intend knowledge advancement, we do it through architecture by selecting knowledge as our concept idea. This culture center is called “Knowledge Torch” and its concept is obtained by the galaxy’s rotation.
@@ -11,18 +14,19 @@ Forth phase is specified for researching issues about global daily improvements 
 
 
 
-![](../images/P19-3088_9736_blowup.jpg)
 
-![](../images/P19-3088_9592_blowup.jpg)
+![]({{site.url}}/images/P19-3088_9614_blowup.jpg)
 
-![](../images/P19-3088_9614_blowup.jpg)
+![]({{site.url}}/images/P19-3088_9736_blowup.jpg)
 
-![](../images/P19-3088_9625_blowup.jpg)
+![]({{site.url}}/images/P19-3088_9939_blowup.jpg)
 
-![](../images/P19-3088_9617_blowup.jpg)
+![]({{site.url}}/images/P19-3088_9625_blowup.jpg)
 
-![](../images/P19-3088_9944_blowup.jpg)
+![]({{site.url}}/images/P19-3088_9944_blowup.jpg)
 
-![](../images/P19-3088_9939_blowup.jpg)
+![]({{site.url}}/images/P19-3088_9613_blowup.jpg)
 
-![](../images/P19-3088_9613_blowup.jpg)
+![]({{site.url}}/images/P19-3088_9617_blowup.jpg)
+
+![]({{site.url}}/images/P19-3088_9592_blowup.jpg)

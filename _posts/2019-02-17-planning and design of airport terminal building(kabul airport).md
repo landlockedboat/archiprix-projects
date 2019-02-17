@@ -1,5 +1,8 @@
-# Planning and design of Airport Terminal Building(Kabul Airport)
-
+---
+layout: post
+title: "Planning and design of Airport Terminal Building(Kabul Airport)"
+---
+# [Planning and design of Airport Terminal Building(Kabul Airport)](http://www.archiprix.org/2019/?project=4242)
 Airports play a vital role in economic development, and the most important cargo they move is people.
 The central core of this movement is terminal building; where people are moved from landside to airside and so on.
 HKIA (Hamid Karzai International Airport) terminal building which is located in Kabul city has been surveyed, and this project has been designed with consideration of the problems we had in HKIA.
@@ -22,18 +25,19 @@ To sum it up, in this project (Kabul International Airport) maximum facilities a
  
 
 
-![](../images/P19-3098_2141_blowup.jpg)
 
-![](../images/P19-3098_7626_blowup.jpg)
+![]({{site.url}}/images/P19-3098_7627_blowup.jpg)
 
-![](../images/P19-3098_7624_blowup.jpg)
+![]({{site.url}}/images/P19-3098_2141_blowup.jpg)
 
-![](../images/P19-3098_7620_blowup.jpg)
+![]({{site.url}}/images/P19-3098_7626_blowup.jpg)
 
-![](../images/P19-3098_1324_blowup.jpg)
+![]({{site.url}}/images/P19-3098_7620_blowup.jpg)
 
-![](../images/P19-3098_9366_blowup.jpg)
+![]({{site.url}}/images/P19-3098_7624_blowup.jpg)
 
-![](../images/P19-3098_7627_blowup.jpg)
+![]({{site.url}}/images/P19-3098_1325_blowup.jpg)
 
-![](../images/P19-3098_1325_blowup.jpg)
+![]({{site.url}}/images/P19-3098_1324_blowup.jpg)
+
+![]({{site.url}}/images/P19-3098_9366_blowup.jpg)

@@ -2,8 +2,8 @@
 layout: default
 ---
 
-# Archiprix projects
+A collection of [archiprix](https://www.archiprix.org/2019/) projects, for inspiration or for delight.
 
-{% for post in site.posts %}
-* [{{ post.title }}]({{ post.url }})
-{% endfor %}
+## [Gallery]({{site.url}}/gallery)
+## [Projects]({{site.url}}/projects)
+
